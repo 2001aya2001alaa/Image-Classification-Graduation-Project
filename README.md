@@ -1,4 +1,4 @@
-#Project Overview
+# Project Overview
 The goal of this project is to develop a machine-learning model for classifying images of birds, cats, dogs, hamsters, and turtles.  
 
 The purpose of the model is to accurately classify new images of these animals, which can be used for a variety of applications such as animal identification, wildlife conservation, and pet detection.
