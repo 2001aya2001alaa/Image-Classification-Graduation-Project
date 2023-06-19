@@ -15,3 +15,11 @@ The images were collected from various sources on the internet.
 To improve the performance of the machine learning model, we applied various preprocessing techniques to the images, such as resizing, cropping, and normalizing the pixel values. We also used data augmentation techniques such as rotation, flipping, and zooming to create new variations of the images and increase the size of the training set.
 
 The dataset is provided in a compressed file format and can be easily loaded into Python using the Keras library. The code for loading and preprocessing the dataset is included in the project repository.
+
+# Model Architecture
+
+# Training and Evaluation
+
+# Code Structure
+
+# Results
