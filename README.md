@@ -8,7 +8,7 @@
 - In addition to training the model, we will also perform data augmentation techniques. We will also use transfer learning to leverage a pre-trained CNN model on a large dataset to extract features from the images, which can help improve the performance of our model.
 
 # The Dataset
-- The dataset used for this project consists of birds, cats, dogs, hamsters, and turtles images. Each image is 224x224 pixels in size and is in JPEG format. 
+- The dataset used for this project consists of birds, cats, dogs, hamsters, and turtles images. Each image is 256 x 256 pixels in size and is in JPEG format. 
 
 - The images were collected from various sources on the internet.  
 
