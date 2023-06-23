@@ -17,8 +17,11 @@
 - The dataset is provided in a compressed file format and can be easily loaded into Python using the Keras library. The code for loading and preprocessing the dataset is included in the project repository.
 
 # Data Preprocessing
-1. Resize the data: The image resizing method used was bilinear interpolation with the Python Imaging Library (PIL). The target size of the resized images was set to (256, 256), which was found to be a good compromise between resolution and memory requirements for the machine learning model.
+1. Resize the data  
+The image resizing method used was bilinear interpolation with the Python Imaging Library (PIL). The target size of the resized images was set to (256, 256), which was found to be a good compromise between resolution and memory requirements for the machine learning model.
 2. Data augmentation
+
+
 
 # Code Structure
 
